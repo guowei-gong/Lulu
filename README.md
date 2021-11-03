@@ -4,6 +4,7 @@
 
 ## 依赖
 - [libvips](https://www.libvips.org/install.html) 
+> 这是一个 C 的动态组件库
 
 ## 支持
 - 图片压缩
@@ -24,7 +25,7 @@ Flags:
 
 ![效果](https://s3.bmp.ovh/imgs/2021/11/de561b2905c114c4.jpg)
 
-## 依赖安装常见问题
+## 常见问题
 
 - libvips
 
