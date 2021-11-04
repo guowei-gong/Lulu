@@ -4,7 +4,12 @@
 
 ## 依赖
 - [libvips](https://www.libvips.org/install.html) 
-> 这是一个 C 的动态组件库。如果你的项目是 C，建议不要用这个工具，可能会让一些基础版本不兼容。
+   - ⭐️ 这里提供另一种 libvips 的安装方式，通过手动指定依赖，这样可以避免 libvips 的安装出现不可控的问题（覆盖部分 C 基础组件）。
+      1. 将本仓库的 libvips.so.42.13.3 存放至任意位置，假设存放在 /tmp
+      3. cd /etc
+      4. vi ld.so.conf，指定 so 文件的存放目录（/tmp）
+      5. cd/sbin
+      6. ldconfig -v
 
 ## 支持
 - 图片压缩
