@@ -14,6 +14,11 @@
 ## 支持
 - 图片压缩
 
+original before size 1.1 MB (1,070,107 bytes)  | compressed after 61 KB (62,060 bytes)
+------------- | -------------
+![screenshot](https://s3.bmp.ovh/imgs/2021/11/f9fec302580982cc.jpeg "compress example")  | ![screenshot](https://s3.bmp.ovh/imgs/2021/11/8cc7d3099d517116.jpeg "compress example")
+
+
 ```
 $lulu image -h
 
@@ -29,6 +34,9 @@ Flags:
 ```
 
 ![效果](https://s3.bmp.ovh/imgs/2021/11/de561b2905c114c4.jpg)
+
+## 编译
+交叉编译，对我而言是非常恐怖的。推荐在环境中，安装 libvips。
 
 ## 常见问题
 
