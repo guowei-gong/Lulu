@@ -50,3 +50,6 @@ Flags:
   No package 'vips' found
   ```
   解决方案：https://www.cxybb.com/article/a_c12345/101725160
+  
+![无人机](https://github.com/guowei-gong/Lulu/assets/62499904/a99865a3-812f-4bd4-b81c-b0d6f48931b2)
+
