@@ -50,6 +50,5 @@ Flags:
   No package 'vips' found
   ```
   解决方案：https://www.cxybb.com/article/a_c12345/101725160
-  
-![坐](https://github.com/guowei-gong/Lulu/assets/62499904/d71f1a4b-2949-4b43-a95f-a768a50b6c1f)
+
 
